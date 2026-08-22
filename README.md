@@ -11,3 +11,8 @@ Moje praktyczne laboratorium do nauki DevOps.
 -Ansible
 -Kubernetes
 -Monitoring
+
+## Postęp
+-Instalacja Ubuntu Server
+-Konfiguracja SSH
+-Podstawy Git
